@@ -13,12 +13,11 @@ This is my first custom Printed Circuit Board (PCB), designed entirely from scra
 
 ## 📐 Design Files
 *   **Source:** The `/Hardware` folder contains all KiCad source files.
-*   **Manufacturing:** The `/Gerbers` folder contains the zipped files ready to be sent to a manufacturer (JLCPCB).
+*   **Manufacturing:** The `/Gerbers` folder contains the zipped files ready to be sent to a manufacturer.
 *   **Design Check (DRC):** 0 Errors, 0 Unconnected Items.
 
 ## 🖼️ Design Preview
-![Board 0 3D View and Layout](0board.png) 
-<!-- Replace 'board0_preview.png' with the exact name of the image you uploaded to the Images folder -->
+![Board 0 Preview](Images/0board.png)
 
 ## 🛠️ Tools Used
 *   **KiCad 10.0** (Schematic Capture & PCB Layout)
